@@ -1,7 +1,7 @@
 const About = ()=>{
     return (
         <center>
-            <section  style = {{width : "70%", padding : "3%"}}>
+            <section  style = {{width : "70%", padding : "3%", color : "white"}}>
                 <h1 style = {{fontSize : "3vw"}}>About Us</h1>
                 <p1 style = {{fontSize : "2vw"}}>This is our about us page. Band is a multidisciplinary creative studio based in the Pacific Northwest.
                     Their About Us page stands out by showcasing some of their unique and creative projects.

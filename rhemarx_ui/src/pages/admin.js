@@ -2,7 +2,7 @@
 const Admin = ()=>{
     return (
         <center>
-            <section style = {{background: "rgba(100, 0, 0, 0.3)", width : "60%", margin : "4% 0%", borderRadius : "5px", boxShadow : "5px 5px 7px black"}}>
+            <section style = {{background: "rgba(100, 0, 0, 0.7)", width : "60%", margin : "4% 0%", borderRadius : "5px", boxShadow : "5px 5px 7px black"}}>
 
                 <form className = "adminLogin" style = {{display: "flex", flexDirection : "column", justifyContent : "space-around", padding : "4% 0%"}}>
 
