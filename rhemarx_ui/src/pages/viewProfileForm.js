@@ -45,7 +45,7 @@ const ViewProfileForm = (props)=>{
                    
             </section>
 
-            <h1>{sqlMessage}</h1>
+            <h1  style = {{color : "white"}}>{sqlMessage}</h1>
 
             <section className = "profileMotherSection" style={{background : "white"}}>
             <center>
