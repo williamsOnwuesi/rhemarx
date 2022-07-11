@@ -19,7 +19,7 @@ const ViewProfileForm = (props)=>{
                 console.log(response.data.message);
                 setSqlMessage(response.data.message);
             }else{
-                setSqlMessage("");
+                setSqlMessage("User Details Successfully fetched! Scroll Down.");
                 console.log(response);
                 setResult(response.data[0]);
                 props.action(response.data[0]);
