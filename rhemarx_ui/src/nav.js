@@ -13,6 +13,7 @@ const Nav = ()=>{
     const navStyle = {
         display : "grid",
         gridTemplateColumns : "1fr 3fr",
+        background : "white",
         borderBottom : "1.5px solid red"
     };
 
