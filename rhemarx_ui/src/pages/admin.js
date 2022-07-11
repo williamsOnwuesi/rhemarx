@@ -8,7 +8,7 @@ const Admin = ()=>{
 
                     <div style = {{display : "grid", gridTemplateColumns : "1fr 1fr"}}>
 
-                        <div style = {{paddingLeft: "10%"}}>
+                        <div style = {{paddingLeft: "10%", color : "white"}}>
                             <div><p>Access ID</p><input style = {{padding : "3%"}}/></div>
                             <div><p>Access Key</p><input style = {{padding : "3%"}}/></div>
                         </div>
